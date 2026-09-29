@@ -41,9 +41,7 @@
 figcaption{
   text-align: center;
 }
-#header-profile{
- 
-}
+
 a{
   text-decoration: none;
   color: #121212;
@@ -107,18 +105,19 @@ a{
 }
 #card-price{
   margin-top: 12px;
-  
+  display: flex;
+  align-content: center;
   
 }
 #price-button{
   background-color: #00754a;
   color: #ffffff;
   margin-left: 250px;
-  height: 30px;
-  width: 30px;
+  height: 20px;
+  width: 20px;
+  padding: 5px;
   border-radius: 50%;
-  font-size: 30px;
-  font-weight: 100;
+ 
 }
 h2{
   font-weight: 100;
